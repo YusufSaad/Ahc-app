@@ -1,0 +1,1 @@
+[{"outputType":{"type":"INSTANT_RUN_MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":2911,"versionName":"2.9.1-p1-debug","enabled":true,"outputFile":"app-madani-debug.apk","fullName":"madaniDebug","baseName":"madani-debug"},"path":"AndroidManifest.xml","properties":{"packageId":"com.quran.labs.androidquran.debug","split":"","minSdkVersion":"14"}}]

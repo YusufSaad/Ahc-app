@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.quran.labs.androidquran.debug"
+      android:versionCode="2911"
+      android:versionName="2.9.1-p1-debug"
+      split="lib_slice_6_apk">
+</manifest>

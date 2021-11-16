@@ -1,0 +1,124 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'io.fabric'
+apply plugin: 'net.ltgt.errorprone'
+apply plugin: 'kotlin-kapt'
+
+android {
+  compileSdkVersion deps.android.build.compileSdkVersion
+
+  lintOptions {
+    checkReleaseBuilds true
+    lintConfig file("lint.xml")
+    enable "Interoperability"
+  }
+
+  defaultConfig {
+    minSdkVersion deps.android.build.minSdkVersion
+    targetSdkVersion deps.android.build.targetSdkVersion
+    versionCode 2911
+    versionName "2.9.1-p1"
+    testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+  }
+
+  signingConfigs {
+    release {
+      storeFile file(STORE_FILE)
+      storePassword STORE_PASSWORD
+      keyAlias KEY_ALIAS
+      keyPassword KEY_PASSWORD
+    }
+  }
+
+  flavorDimensions "pageType"
+  productFlavors {
+    madani {
+      applicationId "com.quran.labs.androidquran"
+    }
+  }
+
+  buildTypes {
+    beta {
+      minifyEnabled true
+      proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard.cfg'
+      //signingConfig signingConfigs.release
+      versionNameSuffix "-beta"
+      if (project.hasProperty('disableCrashlytics')) {
+        ext.enableCrashlytics = false
+      }
+      matchingFallbacks = ['debug', 'release']
+    }
+
+    debug {
+      ext.enableCrashlytics = false
+      ext.alwaysUpdateBuildId = false
+      applicationIdSuffix ".debug"
+      versionNameSuffix "-debug"
+    }
+
+    release {
+      minifyEnabled true
+      proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard.cfg'
+      //signingConfig signingConfigs.release
+      if (project.hasProperty('disableCrashlytics')) {
+        ext.enableCrashlytics = false
+      }
+    }
+  }
+
+  applicationVariants.all { variant ->
+    resValue "string", "authority", applicationId + '.data.QuranDataProvider'
+    resValue "string", "file_authority", applicationId + '.fileprovider'
+    if (applicationId.endsWith("debug")) {
+      mergedFlavor.manifestPlaceholders = [app_debug_label: "Quran " + flavorName.capitalize()]
+    }
+  }
+
+  compileOptions {
+    sourceCompatibility JavaVersion.VERSION_1_8
+    targetCompatibility JavaVersion.VERSION_1_8
+  }
+
+  testOptions.unitTests.all {
+    testLogging {
+      events 'passed', 'skipped', 'failed', 'standardOut', 'standardError'
+      outputs.upToDateWhen { false }
+      showStandardStreams true
+      exceptionFormat "full"
+    }
+  }
+}
+
+if (new File(rootDir, 'extras/extras.gradle').exists()) {
+   apply from: new File(rootDir, 'extras/extras.gradle')
+} else {
+   apply from: 'pluggable.gradle'
+}
+
+dependencies {
+  implementation project(path: ':common:data')
+  implementation project(path: ':common:pages')
+
+  implementation deps.kotlin.stdlib
+  implementation "com.android.support:support-v4:${supportLibVersion}"
+  implementation "com.android.support:appcompat-v7:${supportLibVersion}"
+  implementation "com.android.support:recyclerview-v7:${supportLibVersion}"
+  implementation "com.android.support:design:${supportLibVersion}"
+  implementation 'io.reactivex.rxjava2:rxjava:2.1.14'
+  implementation 'io.reactivex.rxjava2:rxandroid:2.0.2'
+  kapt deps.dagger.apt
+  implementation deps.dagger.runtime
+  implementation "com.squareup.okhttp3:okhttp:${okhttpVersion}"
+  implementation 'com.squareup.moshi:moshi:1.5.0'
+  implementation 'com.jakewharton.timber:timber:4.6.1'
+  debugImplementation 'com.facebook.stetho:stetho:1.5.0'
+  debugImplementation 'com.facebook.stetho:stetho-okhttp3:1.5.0'
+  debugImplementation 'com.squareup.leakcanary:leakcanary-android:1.5.1'
+  testImplementation 'junit:junit:4.12'
+  testImplementation 'com.google.truth:truth:0.41'
+  testImplementation "org.mockito:mockito-core:2.19.0"
+  testImplementation "com.squareup.okhttp3:mockwebserver:${okhttpVersion}"
+  androidTestImplementation "com.android.support.test.espresso:espresso-core:${espressoVersion}"
+  androidTestImplementation "com.android.support.test.espresso:espresso-intents:${espressoVersion}"
+  implementation('com.crashlytics.sdk.android:crashlytics:2.9.4')
+}

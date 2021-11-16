@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="repeatValues">
+    <item>einmal</item>
+    <item>zweimal</item>
+    <item>dreimal</item>
+    <item>unendlich</item>
+  </string-array>
+    <string-array name="sura_names">
+    <item>Al-Fātiḥah</item>
+    <item>Al-Baqarah</item>
+    <item>Āl ʿImrān</item>
+    <item>An-Nisāʾ</item>
+    <item>Al-Māʾidah</item>
+    <item>Al-Anʿām</item>
+    <item>Al-Aʿrāf</item>
+    <item>Al-Anfāl</item>
+    <item>At-Tauwbah</item>
+    <item>Yūnus</item>
+    <item>Hūd</item>
+    <item>Yūsuf</item>
+    <item>Ar-Raʿd</item>
+    <item>Ibrāhīm</item>
+    <item>Al-Ḥiǧr</item>
+    <item>An-Naḥl</item>
+    <item>Al-Isrāʾ</item>
+    <item>Al-Kahf</item>
+    <item>Maryam</item>
+    <item>Ṭā-Hā</item>
+    <item>Al-Anbiyāʾ</item>
+    <item>Al-Ḥaǧǧ</item>
+    <item>Al-Muʾminūn</item>
+    <item>An-Nūr</item>
+    <item>Al-Furqān</item>
+    <item>Aš-Šuʿarāʾ</item>
+    <item>An-Naml</item>
+    <item>Al-Qaṣaṣ</item>
+    <item>Al-ʿAnkabūt</item>
+    <item>Ar-Rūm</item>
+    <item>Luqmān</item>
+    <item>As-Saǧdah</item>
+    <item>Al-Aḥzāb</item>
+    <item>Sabaʾ</item>
+    <item>Fāṭir</item>
+    <item>Yā-Sīn</item>
+    <item>Aṣ-Ṣāffāt</item>
+    <item>Ṣād</item>
+    <item>Az-Zumar</item>
+    <item>Ġāfir</item>
+    <item>Fuṣṣilat</item>
+    <item>Aš-Šūrā</item>
+    <item>Az-Zuḫruf</item>
+    <item>Ad-Duḫān</item>
+    <item>Al-Ǧāṯiyah</item>
+    <item>Al-Aḥqāf</item>
+    <item>Muḥammad</item>
+    <item>Al-Fatḥ</item>
+    <item>Al-Ḥuǧurāt</item>
+    <item>Qāf</item>
+    <item>Aḏ-Ḏāriyāt</item>
+    <item>Aṭ-Ṭūr</item>
+    <item>An-Naǧm</item>
+    <item>Al-Qamar</item>
+    <item>Ar-Raḥmān</item>
+    <item>Al-Wāqiʿah</item>
+    <item>Al-Ḥadīd</item>
+    <item>Al-Muǧādalah</item>
+    <item>Al-Ḥašr</item>
+    <item>Al-Mumtaḥinah</item>
+    <item>Aṣ-Ṣaff</item>
+    <item>Al-Ǧumʿah</item>
+    <item>Al-Munāfiqūn</item>
+    <item>At-Taġābun</item>
+    <item>Aṭ-Ṭalāq</item>
+    <item>At-Taḥrīm</item>
+    <item>Al-Mulk</item>
+    <item>Al-Qalam</item>
+    <item>Al-Ḥāqqah</item>
+    <item>Al-Maʿāriǧ</item>
+    <item>Nūḥ</item>
+    <item>Al-Ǧinn</item>
+    <item>Al-Muzzammil</item>
+    <item>Al-Muddaṯṯir</item>
+    <item>Al-Qiyāmah</item>
+    <item>Al-Insān</item>
+    <item>Al-Mursalāt</item>
+    <item>An-Nabaʾ</item>
+    <item>An-Nāziʿāt</item>
+    <item>ʿAbasa</item>
+    <item>At-Takwīr</item>
+    <item>Al-Infiṭār</item>
+    <item>Al-Muṭaffifīn</item>
+    <item>Al-Inšiqāq</item>
+    <item>Al-Burūǧ</item>
+    <item>Aṭ-Ṭāriq</item>
+    <item>Al-Aʿlā</item>
+    <item>Al-Ġāšiyah</item>
+    <item>Al-Faǧr</item>
+    <item>Al-Balad</item>
+    <item>Aš-Šams</item>
+    <item>Al-Layl</item>
+    <item>Aḍ-Ḍuḥā</item>
+    <item>Aš-Šarḥ</item>
+    <item>At-Tīn</item>
+    <item>Al-ʿAlaq</item>
+    <item>Al-Qadr</item>
+    <item>Al-Bayyinah</item>
+    <item>Az-Zalzalah</item>
+    <item>Al-ʿĀdiyāt</item>
+    <item>Al-Qāriʿah</item>
+    <item>At-Takāṯur</item>
+    <item>Al-ʿAṣr</item>
+    <item>Al-Humazah</item>
+    <item>Al-Fīl</item>
+    <item>Qurayš</item>
+    <item>Al-Māʿūn</item>
+    <item>Al-Kauwṯar</item>
+    <item>Al-Kāfirūn</item>
+    <item>An-Naṣr</item>
+    <item>Al-Masad</item>
+    <item>Al-Iḫlāṣ</item>
+    <item>Al-Falaq</item>
+    <item>An-Nās</item>
+  </string-array>
+    <string-array name="sura_names_translation">
+    <item>Die Eröffnende</item>
+    <item>Die Kuh</item>
+    <item>Die Sippe ʿImrāns</item>
+    <item>Die Frauen</item>
+    <item>Der Tisch (mit Speisen)</item>
+    <item>Das Vieh</item>
+    <item>Die Höhen</item>
+    <item>Die Kriegsbeute</item>
+    <item>Die Reue</item>
+    <item>Jonas</item>
+    <item>Hūd</item>
+    <item>Josef</item>
+    <item>Der Donner</item>
+    <item>Abraham</item>
+    <item>Das steinige Land</item>
+    <item>Die Bienen</item>
+    <item>Die Nachtreise</item>
+    <item>Die Höhle</item>
+    <item>Maria</item>
+    <item>(Die Buchstaben) Ṭā-Hā</item>
+    <item>Die Propheten</item>
+    <item>Die Pilgerfahrt</item>
+    <item>Die Gläubigen</item>
+    <item>Das Licht</item>
+    <item>Die Unterscheidung</item>
+    <item>Die Dichter</item>
+    <item>Die Ameisen</item>
+    <item>Die Geschichte</item>
+    <item>Die Spinne</item>
+    <item>Die Römer</item>
+    <item>Luqmān</item>
+    <item>Die Niederwerfung</item>
+    <item>Die Verbündeten</item>
+    <item>Saba (Königreich aus der Antike)</item>
+    <item>Der Schöpfer (der Existenz)</item>
+    <item>(Die Buchstaben) Yā-Sīn</item>
+    <item>Die Sich-Reihenden</item>
+    <item>(Der Buchstabe) Ṣād</item>
+    <item>Die Gruppen</item>
+    <item>Der Vergebende</item>
+    <item>Sie sind ausführlich erläutert (die Verse)</item>
+    <item>Die Beratung</item>
+    <item>Die Verzierung</item>
+    <item>Der Rauch</item>
+    <item>Das Knien</item>
+    <item>Die Sanddünen</item>
+    <item>Muḥammad ﷺ</item>
+    <item>Der Sieg</item>
+    <item>Die Gemächer</item>
+    <item>(Der Buchstabe) Qāf </item>
+    <item>Die Zerstreuenden (Winde)</item>
+    <item>Der Berg</item>
+    <item>Der Stern</item>
+    <item>Der Mond</item>
+    <item>Der Allerbarmer</item>
+    <item>Das eintreffende Ereignis</item>
+    <item>Das Eisen</item>
+    <item>Die Diskussion</item>
+    <item>Die Versammlung</item>
+    <item>Die Geprüfte (Frau)</item>
+    <item>Die Reihe; die Einreihung</item>
+    <item>Der Freitag</item>
+    <item>Die Heuchler</item>
+    <item>(Der Tag von) Gewinn und Verlust </item>
+    <item>Die Scheidung</item>
+    <item>Das Verbot</item>
+    <item>Die Herrschaft</item>
+    <item>Das Schreibrohr; der Stift</item>
+    <item>Die unabwendbare Wahrheit</item>
+    <item>Die Aufstiegswege</item>
+    <item>Noah</item>
+    <item>Die Dschinn</item>
+    <item>Der Eingehüllte</item>
+    <item>Der Zugedeckte</item>
+    <item>Die Auferstehung</item>
+    <item>Der Mensch</item>
+    <item>Die Entsandten</item>
+    <item>Die Kunde</item>
+    <item>Die Entreißenden</item>
+    <item>Er runzelte die Stirn</item>
+    <item>Das Umschlingen; das Zusammenrollen</item>
+    <item>Das Zerbrechen (des Himmels)</item>
+    <item>Die das Maß Kürzenden (betrügende Händler)</item>
+    <item>Das Auseinanderspalten (des Himmels)</item>
+    <item>Die Türme</item>
+    <item>Der Pochende (helle Stern)</item>
+    <item>Der Allerhöchste</item>
+    <item>Die Überdeckende (Stunde)</item>
+    <item>Die Morgendämmerung; das Frühlicht</item>
+    <item>Die Ortschaft</item>
+    <item>Die Sonne</item>
+    <item>Die Nacht</item>
+    <item>Die Morgenhelle; der Vormittag</item>
+    <item>Das Auftun; das Weiten (der Brust)</item>
+    <item>Die Feige</item>
+    <item>Das Anhängsel; der Blutklumpen</item>
+    <item>Die (Nacht der) Bestimmung</item>
+    <item>Der klare Beweis</item>
+    <item>Das Beben</item>
+    <item>Die Rennenden (Pferde)</item>
+    <item>Das Verhängnis</item>
+    <item>Die Vermehrung; das Streben nach Mehr</item>
+    <item>Das Zeitalter; die Zeit; der Nachmittag</item>
+    <item>Der Stichler (der mit der Rede verleumdet)</item>
+    <item>Der Elefant</item>
+    <item>Die Quraisch (arab. Stamm)</item>
+    <item>Die Hilfeleistung</item>
+    <item>Die Überfülle; der Überfluss</item>
+    <item>Die Ungläubigen</item>
+    <item>Die Hilfe</item>
+    <item>Die Palmfasern</item>
+    <item>Die Aufrichtigkeit</item>
+    <item>Der Tagesanbruch; das Morgengrauen</item>
+    <item>Die Menschen</item>
+  </string-array>
+    <bool name="show_sura_names_translation">false</bool>
+    <plurals name="files_downloaded">
+    <item quantity="one">1 Sure heruntergeladen</item>
+    <item quantity="other">%1$d Suren heruntergeladen</item>
+  </plurals>
+    <plurals name="search_results">
+    <item quantity="one">Resultat für \"%1$s\":</item>
+    <item quantity="other">%2$d Resultate für \"%1$s\":</item>
+  </plurals>
+    <plurals name="verses">
+    <item quantity="one">%s Vers</item>
+    <item quantity="other">%s Verse</item>
+  </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Zur Startseite"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Nach oben"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Weitere Optionen"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Fertig"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Alle ansehen"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"App auswählen"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"Aus"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"An"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Suchen…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Suchanfrage löschen"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Suchanfrage"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Suchen"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Suchanfrage senden"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Sprachsuche"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Freigeben für"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Mit <ns1:g id="APPLICATION_NAME">%s</ns1:g> teilen"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Minimieren"</string>
+    <string name="app_name">Quran</string>
+    <string name="audio_manager">Audioverwaltung</string>
+    <string name="available_translations">Zum Download verfügbar</string>
+    <string name="ayah_copied_popup">Vers kopiert</string>
+    <string name="bookmark_ayah">Lesezeichen für diesen Vers hinzufügen</string>
+    <string name="bookmarks_list_empty">Keine Lesezeichen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="canceling">Abbrechen…</string>
+    <string name="copy_ayah">Kopiere Vers</string>
+    <string name="delete_tag">Schlagwort löschen</string>
+    <string name="dialog_ok">Ok</string>
+    <string name="downloadImportantPrompt">Es ist eine kleine, aber wichtige Aktualisierung der
+    Quran-Abbildungen auf ihrem Gerät vorhanden. Wollen Sie diese Aktualisierung jetzt
+    herunterladen?
+  </string>
+    <string name="downloadPrompt">Für die optimale Leistung müssen einige Dateien
+    heruntergeladen werden. Wenn Sie sich dagegen entscheiden, wird das
+    Laden jeder Seite spürbar länger dauern. Wollen Sie die benötigten
+    Dateien herunterladen?
+  </string>
+    <string name="downloadPrompt_no">Nein</string>
+    <string name="downloadPrompt_ok">Ja</string>
+    <string name="downloadPrompt_title">Möchten Sie die benötigten Dateien herunterladen?</string>
+    <string name="downloadTabletPrompt">Wir haben kürzlich verbesserte Bilder für Tablets hinzugefügt.
+    Wollen Sie diese Bilder jetzt herunterladen?
+  </string>
+    <string name="download_cancel">Abbrechen</string>
+    <string name="download_error_disk">Sie verfügen nicht über genug Speicherplatz um die Dateien
+    herunterzuladen.
+  </string>
+    <string name="download_error_general">Download fehlgeschlagen</string>
+    <string name="download_error_invalid_download">Die heruntergeladene Datei war fehlerhaft.</string>
+    <string name="download_error_invalid_download_retry">Fehlerhafte Datei, es wird versucht die Datei
+    erneut herunterzuladen.
+  </string>
+    <string name="download_error_network">Die Datei konnte wegen eines Netzwerk-Fehlers nicht
+    heruntergeladen werden.
+  </string>
+    <string name="download_error_network_retry">Netzwerk-Fehler, es wird versucht eine Verbindung
+    aufzubauen…</string>
+    <string name="download_error_perms">Die Datei konnte mangels Berechtigungen nicht heruntergeladen
+    werden.
+  </string>
+    <string name="download_extra_data">Wir müssen einige kleine Dateien herunterladen, um von der
+    Teilen- und Übersetzungs-Funktion Gebrauch machen zu können. Möchten Sie die Dateien jetzt
+    herunterladen?
+  </string>
+    <string name="download_non_wifi_prompt">Sie sind nicht mit einem W-LAN verbunden. Möchten Sie die
+    Dateien trotzdem herunterladen?
+  </string>
+    <string name="download_processing">Download wird durchgeführt…</string>
+    <string name="download_progress">Heruntergeladen %1$s / %2$s</string>
+    <string name="download_retry">Nochmals versuchen</string>
+    <string name="download_successful">Download erfolgreich</string>
+    <string name="download_sura_ayah_progress">Herunterladen von Sure %1$d Vers %2$d</string>
+    <string name="download_sura_progress">Heruntergeladen %1$s / %2$s von Sure %3$d</string>
+    <string name="downloaded_translations">Heruntergeladen</string>
+    <string name="downloading_message">Bitte warten Sie bis die Dateien heruntergeladen wurden.
+    Sie dürfen den Vorgang unterbrechen, falls es nötig sein sollte.
+  </string>
+    <string name="downloading_title">Dateien werden heruntergeladen…</string>
+    <string name="edit_tag">Schlagwort bearbeiten</string>
+    <string name="email_us">Wenn Ihre Frage oben nicht beantwortet werden konnte und Sie
+    Unterstützung benötigen, dann können Sie uns eine E-Mail an quranandroid@gmail.com senden.
+    Bitte haben Sie Verständnis dafür, dass wir sehr viele E-Mails bekommen und wir möglicherweise
+    nicht im Stande sein werden alle zu beantworten.
+  </string>
+    <string name="error_getting_translation_list">Es ist zurzeit nicht möglich die Liste
+    mit den Übersetzungen herunterzuladen. Versuchen Sie es später erneut.
+  </string>
+    <string name="extracting_title">Dateien werden verarbeitet…</string>
+    <string name="found_in_sura">Gefunden in Sure %1$s, Vers %2$d</string>
+    <string name="get_arabic_search_db">Lade die arabische Such-Datenbank herunter</string>
+    <string name="get_translations">Übersetzungen herunterladen</string>
+    <string name="gotoPage">Gehe zur Seite</string>
+    <string name="help">
+    &lt;b>Wie starte ich die Wiedergabe der Audio-Dateien?&lt;/b>
+    &lt;br/>Öffnen Sie eine beliebige Seite im Quran. Berühren Sie nun den Bildschirm einmal.
+    Am unteren Bildschirmrand werden ein Abspiel-Knopf in der Form eines Pfeiles und der Name
+    des Rezitators erscheinen. Berühren Sie den Namen des Rezitators um zwischen den Rezitatoren
+    zu wechseln.
+    Drücken Sie den Abspiel-Knopf um die ausgewählte Seite oder Sure herunterzuladen, falls Sie
+    das bereits getan haben, wird die Seite oder Sure sofort wiedergegeben, ansonsten müssen Sie
+    sich gedulden bis die Dateien heruntergeladen wurden, danach wird auch sofort die Wiedergabe
+    gestartet.
+    &lt;br/>
+    &lt;br/>&lt;b>Wie kann ich eine Übersetzung öffnen?&lt;/b>
+    &lt;br/>Öffnen Sie eine beliebige Seite im Quran. Berühren Sie nun den Bildschirm einmal.
+    Am oberen Bildschirmrand wird eine kleine Weltkugel erscheinen. Um nun die Übersetzungen zu
+    öffnen müssen Sie auf die Weltkugel tippen. Möglicherweise wird bei Ihnen keine Weltkugel
+    angezeigt,
+    sondern nur ein Symbol mit drei Punkten, in solch einem Fall tippen Sie auf die drei Punkte und
+    wählen
+    die Option \'Übersetzungen\' aus.).
+    &lt;br/>
+    Falls Sie keine Übersetzung heruntergeladen haben, wird Sie dieser Vorgang zu einer Seite
+    weiterleiten auf der Sie die Übersetzungen herunterladen können. Wählen Sie auf dieser Seite
+    nun eine Übersetzung aus. Durch das bloße antippen der Übersetzung wird das Herunterladen
+    beginnen. Sobald das Herunterladen abgeschlossen ist können Sie zur vorherigen Seite
+    zurückkehren
+    und erneut auf die Weltkugel tippen beziehungsweise die Option \'Übersetzungen\' auswählen.
+    &lt;br/>
+    &lt;br/>&lt;b>Wie füge ich ein Lesezeichen hinzu?&lt;/b>
+    &lt;br/>Öffnen Sie eine beliebige Seite im Quran. Berühren Sie nun den Bildschirm einmal.
+    In der oberen rechten Ecke werden Sie daraufhin einen kleinen Stern sehen. Berühren Sie nun
+    den Stern um ein Lesezeichen hinzuzufügen. Der Stern wird dadurch ausgefüllt. Um das Lesezeichen
+    wieder zu entfernen, müssen Sie den Stern nochmals berühren.
+    &lt;br/>
+    &lt;br/>&lt;b>Wie mache ich den Text größer?&lt;/b>
+    &lt;br/>Für die arabischen Seiten können Sie Ihr Handy ins Querformat drehen. Das macht den Text
+    größer. Um den Text von Übersetzungen zu vergrößern, müssen Sie in die Einstellungen gehen und
+    dort die gewünschte Schrittgröße auswählen.
+    &lt;br/>
+    &lt;br/>&lt;b>Wie teile ich einen Vers?&lt;/b>
+    &lt;br/>Um einen Vers zu teilen müssen Sie die Original Schrift öffnen, dürfen also keine
+    Übersetzung ansehen, halten Sie dann einen Vers solange gedrückt bis nicht ein Kontextmenü
+    erscheint. In diesem Menu können Sie nun ein Lesezeichen hinzufügen, den Vers teilen, die
+    Übersetzung anzeigen lassen oder den Vers kopieren.
+    &lt;br/>
+    &lt;br/>&lt;b>Malayalm/Tamil/Bangla/Urdu Schriften funktionieren nicht!&lt;/b>
+    &lt;br/>Leider unterstützen Android Versionen vor 4.0 diese Schriften nicht, da können
+    wir Ihnen leider auch nicht weiterhelfen.
+  </string>
+    <string name="help_title">Häufig gestellte Fragen</string>
+    <string name="highlighting_database">Benötigte Dateien</string>
+    <string name="index_loading">Lade…</string>
+    <string name="juz2_description">Juz\' %1$s</string>
+    <string name="kitkat_external_message">Aufgrund von Systemeinschränkungen durch Android, werden im
+    Falle der Speicherung der Daten auf einer externen SD-Karte, diese Daten nach einer
+    Deinstallation oder einer Löschung der Applikationsdaten dauerhaft gelöscht und es ist ein
+    erneutes Herunterladen erforderlich. Sind Sie sicher, dass Sie die externe SD-Karte benutzen
+    wollen?
+  </string>
+    <string name="madani">Medinensisch</string>
+    <string name="makki">Mekkanisch</string>
+    <string name="menu_about">Über uns</string>
+    <string name="menu_back_to_page">Quran anzeigen</string>
+    <string name="menu_bookmarks">Lesezeichen</string>
+    <string name="menu_bookmarks_ayah">Vers-Lesezeichen</string>
+    <string name="menu_bookmarks_page">Seiten-Lesezeichen</string>
+    <string name="menu_get_translations">Lade die Übersetzungen</string>
+    <string name="menu_help">Hilfe</string>
+    <string name="menu_jump">Springe zu</string>
+    <string name="menu_jump_last_page">Letzte Seite</string>
+    <string name="menu_search">Suche</string>
+    <string name="menu_settings">Einstellungen</string>
+    <string name="menu_sort">Sortieren</string>
+    <string name="menu_sort_date">Hinzufügedatum</string>
+    <string name="menu_sort_location">Position im Quran</string>
+    <string name="menu_translation">Übersetzung anzeigen</string>
+    <string name="need_translation">Sie haben noch keine Übersetzung/Koranexegese heruntergeladen.
+  </string>
+    <string name="new_tag">Neues Schlagwort</string>
+    <string name="no_arabic_search_available">Sie haben das arabische Such-Paket noch nicht
+    heruntergeladen. Bitte laden Sie dieses herunter und versuchen Sie es danach erneut.
+  </string>
+    <string name="no_results">Es wurden keine Resultate für \"%s\" gefunden.</string>
+    <string name="not_tagged">Noch kein Schlagwort hinzugefügt</string>
+    <string name="notification_download_canceled">Download abgebrochen</string>
+    <string name="page_description">Seite %1$s, Juz\' %2$s</string>
+    <string name="play">Abspielen</string>
+    <string name="play_apply">Anwenden</string>
+    <string name="play_apply_and_play">Anwenden und Abspielen</string>
+    <string name="play_from">Von</string>
+    <string name="play_from_here">Ab hier abspielen</string>
+    <string name="play_restrict_range">Nur die oben genannten Verse abspielen</string>
+    <string name="play_to">Bis</string>
+    <string name="prefs_app_location_summary">Wählen Sie den Speicherort der Dateien aus.</string>
+    <string name="prefs_app_location_title">Speicherort</string>
+    <string name="prefs_app_size">Der vom Programm verwendete Speicherplatz ist</string>
+    <string name="prefs_audio_manager">Audioverwaltung (experimentell)</string>
+    <string name="prefs_audio_manager_summary">Verwalten Sie Ihre Audiodateien.</string>
+    <string name="prefs_ayah_before_translation_summary">Das arabische Original vor jedem übersetzten
+    Vers anzeigen.
+  </string>
+    <string name="prefs_ayah_before_translation_title">Original vor dem Vers</string>
+    <string name="prefs_calculating_app_size">Die Größe des Programms wird berechnet</string>
+    <string name="prefs_category_display_settings">Bildschirmoptionen</string>
+    <string name="prefs_category_download">Downloadoptionen</string>
+    <string name="prefs_category_reading">Lese Optionen</string>
+    <string name="prefs_category_translation">Übersetzungsoptionen</string>
+    <string name="prefs_copying_app_files">Programmdateien werden kopiert</string>
+    <string name="prefs_display_marker_summary">Ein Fenster anzeigen beim Erreichen eines neuen Juz\',
+    einer neuen Hizb, etc.
+  </string>
+    <string name="prefs_display_marker_title">Meilenstein-Fenster anzeigen</string>
+    <string name="prefs_download_amount_summary">Bevorzugte Downloadgröße für nicht
+    unterbrechungsfreie Wiedergabe.
+  </string>
+    <string name="prefs_download_amount_title">Downloadgröße</string>
+    <string name="prefs_dual_page_mode_disabled">Im Querformat wird nur eine Seite dargestellt.</string>
+    <string name="prefs_dual_page_mode_enabled">Im Querformat werden zwei Seiten nebeneinander
+    dargestellt.
+  </string>
+    <string name="prefs_dual_page_mode_title">Tablet-Modus</string>
+    <string name="prefs_err_moving_app_files">Die Programmdateien konnten nicht verschoben werden.
+  </string>
+    <string name="prefs_landscape_orientation_summary_off">Hochformat wird genutzt.</string>
+    <string name="prefs_landscape_orientation_summary_on">Querformat wird genutzt.</string>
+    <string name="prefs_landscape_orientation_title">Querformat</string>
+    <string name="prefs_lock_orientation_summary_off">Verwendet für die Bildschirmausrichtung die
+    aktuellen System-Einstellungen.
+  </string>
+    <string name="prefs_lock_orientation_summary_on">Die Quranseiten werden immer in einer bestimmten
+    Bildschirmausrichtung angezeigt.
+  </string>
+    <string name="prefs_lock_orientation_title">Bildschirmausrichtung sperren</string>
+    <string name="prefs_megabytes_int">%1$d MB</string>
+    <string name="prefs_new_background_title">Neuen Hintergrund verwenden</string>
+    <string name="prefs_night_mode_summary">Es werden ein dunkler Hintergrund und eine helle Schrift
+    benutzt.
+  </string>
+    <string name="prefs_night_mode_text_brightness_summary">Die Helligkeit des Textes im Nachtmodus.
+  </string>
+    <string name="prefs_night_mode_text_brightness_title">Helligkeit des Textes</string>
+    <string name="prefs_night_mode_title">Nachtmodus</string>
+    <string name="prefs_no_enough_space_to_move_files">Sie haben nicht genug Speicherplatz um die
+    Dateien zu verschieben.
+  </string>
+    <string name="prefs_overlay_page_info_summary">Blendet die Seitennummer, den Namen der Sure und
+    die Juz\' Nummer während dem Lesen ein.
+  </string>
+    <string name="prefs_overlay_page_info_title">Seiteninfo anzeigen</string>
+    <string name="prefs_sdcard_external">Externe SD-Karte %1$d</string>
+    <string name="prefs_sdcard_internal">Interner Speicher</string>
+    <string name="prefs_streaming_summary">Wenn möglich, Audio streamen (nicht unterbrechungsfreie
+    Wiedergabe).
+  </string>
+    <string name="prefs_streaming_title">Streaming</string>
+    <string name="prefs_translation_text_title">Schrittgröße der Übersetzungen</string>
+    <string name="prefs_translations">Übersetzungen</string>
+    <string name="prefs_translations_summary">Verwalte und lade Übersetzungen herunter.</string>
+    <string name="prefs_use_arabic_summary_on">Das Programm wird ins Arabische umgestellt</string>
+    <string name="prefs_use_arabic_title">Arabischer Modus</string>
+    <string name="prefs_volume_key_navigation_summary">Wechseln Sie zwischen verschiedenen Seiten
+    mittels der Lautstärketasten.
+  </string>
+    <string name="prefs_volume_key_navigation_title">Navigation mittels Lautstärketasten</string>
+    <string name="process_progress">Datei wird verarbeitet %1$d / %2$d</string>
+    <string name="qari_abdulbaset">Abd Al-Basit</string>
+    <string name="qari_abdulbaset_mujawwad">Abd Al-Basit Mujawwad</string>
+    <string name="qari_afasy">Mishary Al-Afasy</string>
+    <string name="qari_ayyoub">Muhammad Ayyoub</string>
+    <string name="qari_basfar">Abdullah Basfar</string>
+    <string name="qari_dussary">Yasser Ad-Dussary</string>
+    <string name="qari_hani_rifai">Hani Ar-Rifai</string>
+    <string name="qari_hudhayfi">Ali Al-Hudhaify</string>
+    <string name="qari_husary_gapless">Husary (lückenlos)</string>
+    <string name="qari_husary_mujawwad">Husary Mujawwad</string>
+    <string name="qari_jibreel">Muhammad Jibreel</string>
+    <string name="qari_minshawi_mujawwad">Minshawy Mujawwad</string>
+    <string name="qari_minshawi_murattal_gapless">Minshawi Murattal (lückenlos)</string>
+    <string name="qari_muaiqly">Maher Al Muaiqly</string>
+    <string name="qari_qatami_gapless">Nasser Al Qatami (lückenlos)</string>
+    <string name="qari_saad_al_ghamdi">Saad Al-Ghamdi</string>
+    <string name="qari_shatri">Abu Bakr Ash-Shatri</string>
+    <string name="qari_shuraym">Saood Ash-Shuraym</string>
+    <string name="qari_suadis">Abdurrahmaan As-Sudais</string>
+    <string name="qari_sudais_gapless">Abdurrahman As-Sudais (lückenlos)</string>
+    <string name="qari_tablawy">Mohammad al Tablaway</string>
+    <string name="qari_walk">Ibrahim Walk (Englische Übersetzung)</string>
+    <string name="quranSearchType">Quranverse</string>
+    <string name="quran_ayah">Vers %1$d</string>
+    <string name="quran_hizb">Hizb</string>
+    <string name="quran_juz2">Juz\'</string>
+    <string name="quran_nos">½</string>
+    <string name="quran_page">Seite</string>
+    <string name="quran_rob3">¼</string>
+    <string name="quran_sura">Sūrah</string>
+    <string name="quran_sura_title">Sure %1$s</string>
+    <string name="quran_talt_arb3">¾</string>
+    <string name="remove_button">Entfernen</string>
+    <string name="remove_dlg_msg">Sind Sie sicher, dass Sie die %1$s entfernen wollen?</string>
+    <string name="remove_dlg_title">Übersetzung entfernen?</string>
+    <string name="sdcard_error">Die SD-Karte konnte nicht gefunden werden. Bitte setzen Sie die Karte
+    erneut ein und versuchen Sie es nochmals.
+  </string>
+    <string name="search_data">Suche Dateien</string>
+    <string name="search_hint">Durchsuche den Quran</string>
+    <string name="search_key">Drücken Sie die Suchtaste zum Nachschlagen eines Verses</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Suchen"</string>
+    <string name="share_ayah">Vers Link teilen</string>
+    <string name="share_ayah_text">Versinhalt teilen</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop">Stoppen</string>
+    <string name="sura_ayah_notification_str">Sure %1$s, Vers %2$d</string>
+    <string name="tag_ayah">Ein Schlagwort zum Vers hinzufügen</string>
+    <string name="tag_bookmark">Ein Schlagwort zum Lesezeichen hinzufügen</string>
+    <string name="tag_dlg_title">Schlagwort</string>
+    <string name="tag_name">Name</string>
+    <string name="timing_database">Benötigte Dateien</string>
+    <string name="translation_ayah">Vers Übersetzung/Koranexegese</string>
+    <string name="translation_dialog_later">Später</string>
+    <string name="translation_dialog_yes">Ja</string>
+    <string name="translation_updates_available">Es ist ein Update für eine Ihrer Übersetzungen
+    vorhanden. Wollen Sie die Übersetzung jetzt aktualisieren?
+  </string>
+    <string name="update_available">Update vorhanden</string>
+    <string name="via_string">via @QuranAndroid</string>
+    <string name="warning">Achtung</string>
+</resources>

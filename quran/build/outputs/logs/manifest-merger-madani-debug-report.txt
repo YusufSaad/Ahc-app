@@ -1,0 +1,469 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:2:1-163:12
+INJECTED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:2:1-163:12
+INJECTED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:2:1-163:12
+INJECTED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:2:1-163:12
+MERGED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:2:1-163:12
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.0] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/stetho-okhttp3-1.5.0.aar/79ffc83957e2ca08a09b239d426841ae/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/stetho-1.5.0.aar/afdaa0c114238aec605ebe8d850e0619/AndroidManifest.xml:2:1-13:12
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/4cfe9b6154fdb96a4276aef47f1dfdd0/AndroidManifest.xml:17:1-57:12
+MERGED from [:pages:madani] /Users/ahmedsaad/Developer/quran_android-master/pages/madani/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-9:12
+MERGED from [:common:pages] /Users/ahmedsaad/Developer/quran_android-master/common/pages/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:design:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/940c26de1c0e071d5fbf5f188c9e3944/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/f2a3c63c20dcf88ef4247dcdda4e3ee9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/397884b58ad2ef1c538f081d6c0ba703/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/de9e21b2dc67259166f187ba7284e57c/AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/cd763569f5cfac171c310325026d0754/AndroidManifest.xml:15:1-21:12
+MERGED from [com.jakewharton.timber:timber:4.6.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/timber-4.6.1.aar/54ca32f30b4141f962b8773d8a2865b5/AndroidManifest.xml:2:1-10:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.4] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.4.aar/04473edced835b5e336fb816e49900f4/AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/d171d175ccf785cfc0a5f1de7c6a650c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/712721f5a2845fea3ee69a6fac9a7f60/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/685b27fc1926af70c63afb09dd4b9afb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/44eeedf1944bffd4245ad155bac09725/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/86df4dff129d9a14c5b43ea1ead6ac67/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0deb5bc8cecac4c44c820c484d87d002/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/4bc8fad70d2c419940d2d8ad84f6a86a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7b10c20598587716ee8d0fc9a8c8dd0b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.3] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.3.aar/70ca898bba32be2fdd2aee875fc6651d/AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.9] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/beta-1.2.9.aar/76fb59818524f079402eaa26b9272dfa/AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:answers:1.4.2] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/answers-1.4.2.aar/6f458f5b918af8110957cdb9f58f3e0c/AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.4.3] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/fabric-1.4.3.aar/c1226e023ff5f378caf7aab98212e3b8/AndroidManifest.xml:22:1-33:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/64463624b3117319f295e48d503d4676/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ceff6b6565f2a71b72d9f8df22f135ab/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4a4eb6a0eba619603ea28dd7012791b6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a9f1d763f982802555265bbc08a45c0b/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ahmedsaad/Developer/quran_android-master/app/src/debug/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/ahmedsaad/Developer/quran_android-master/app/src/debug/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/ahmedsaad/Developer/quran_android-master/app/src/debug/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:4:11-48
+		INJECTED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ahmedsaad/Developer/quran_android-master/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:2:1-163:12
+		INJECTED from /Users/ahmedsaad/Developer/quran_android-master/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:3:11-57
+	android:versionCode
+		INJECTED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:2:1-163:12
+		INJECTED from /Users/ahmedsaad/Developer/quran_android-master/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:5:11-41
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:7:3-64
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.4] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.4.aar/04473edced835b5e336fb816e49900f4/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.4] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.4.aar/04473edced835b5e336fb816e49900f4/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.3] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.3.aar/70ca898bba32be2fdd2aee875fc6651d/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.3] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.3.aar/70ca898bba32be2fdd2aee875fc6651d/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.9] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/beta-1.2.9.aar/76fb59818524f079402eaa26b9272dfa/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.9] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/beta-1.2.9.aar/76fb59818524f079402eaa26b9272dfa/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.2] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/answers-1.4.2.aar/6f458f5b918af8110957cdb9f58f3e0c/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.2] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/answers-1.4.2.aar/6f458f5b918af8110957cdb9f58f3e0c/AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.3] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/fabric-1.4.3.aar/c1226e023ff5f378caf7aab98212e3b8/AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.3] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/fabric-1.4.3.aar/c1226e023ff5f378caf7aab98212e3b8/AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:7:20-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:8:3-78
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/4cfe9b6154fdb96a4276aef47f1dfdd0/AndroidManifest.xml:24:5-81
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/4cfe9b6154fdb96a4276aef47f1dfdd0/AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:8:20-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:9:3-76
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:9:20-74
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:10:3-65
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:10:20-63
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:13:3-88
+	android:required
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:13:61-85
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:13:17-60
+uses-sdk
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:15:3-49
+INJECTED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:15:3-49
+INJECTED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:15:3-49
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.0] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/stetho-okhttp3-1.5.0.aar/79ffc83957e2ca08a09b239d426841ae/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.0] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/stetho-okhttp3-1.5.0.aar/79ffc83957e2ca08a09b239d426841ae/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/stetho-1.5.0.aar/afdaa0c114238aec605ebe8d850e0619/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/stetho-1.5.0.aar/afdaa0c114238aec605ebe8d850e0619/AndroidManifest.xml:7:5-9:41
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/4cfe9b6154fdb96a4276aef47f1dfdd0/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/4cfe9b6154fdb96a4276aef47f1dfdd0/AndroidManifest.xml:20:5-44
+MERGED from [:pages:madani] /Users/ahmedsaad/Developer/quran_android-master/pages/madani/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-7:41
+MERGED from [:pages:madani] /Users/ahmedsaad/Developer/quran_android-master/pages/madani/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-7:41
+MERGED from [:common:pages] /Users/ahmedsaad/Developer/quran_android-master/common/pages/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-7:41
+MERGED from [:common:pages] /Users/ahmedsaad/Developer/quran_android-master/common/pages/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/940c26de1c0e071d5fbf5f188c9e3944/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/940c26de1c0e071d5fbf5f188c9e3944/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/f2a3c63c20dcf88ef4247dcdda4e3ee9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/f2a3c63c20dcf88ef4247dcdda4e3ee9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/397884b58ad2ef1c538f081d6c0ba703/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/397884b58ad2ef1c538f081d6c0ba703/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/de9e21b2dc67259166f187ba7284e57c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/de9e21b2dc67259166f187ba7284e57c/AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/cd763569f5cfac171c310325026d0754/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/cd763569f5cfac171c310325026d0754/AndroidManifest.xml:19:5-43
+MERGED from [com.jakewharton.timber:timber:4.6.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/timber-4.6.1.aar/54ca32f30b4141f962b8773d8a2865b5/AndroidManifest.xml:6:5-43
+MERGED from [com.jakewharton.timber:timber:4.6.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/timber-4.6.1.aar/54ca32f30b4141f962b8773d8a2865b5/AndroidManifest.xml:6:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.4] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.4.aar/04473edced835b5e336fb816e49900f4/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.4] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.4.aar/04473edced835b5e336fb816e49900f4/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/d171d175ccf785cfc0a5f1de7c6a650c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/d171d175ccf785cfc0a5f1de7c6a650c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/712721f5a2845fea3ee69a6fac9a7f60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/712721f5a2845fea3ee69a6fac9a7f60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/685b27fc1926af70c63afb09dd4b9afb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/685b27fc1926af70c63afb09dd4b9afb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/44eeedf1944bffd4245ad155bac09725/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/44eeedf1944bffd4245ad155bac09725/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/86df4dff129d9a14c5b43ea1ead6ac67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/86df4dff129d9a14c5b43ea1ead6ac67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0deb5bc8cecac4c44c820c484d87d002/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0deb5bc8cecac4c44c820c484d87d002/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/4bc8fad70d2c419940d2d8ad84f6a86a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/4bc8fad70d2c419940d2d8ad84f6a86a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7b10c20598587716ee8d0fc9a8c8dd0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7b10c20598587716ee8d0fc9a8c8dd0b/AndroidManifest.xml:20:5-44
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.3] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.3.aar/70ca898bba32be2fdd2aee875fc6651d/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.3] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.3.aar/70ca898bba32be2fdd2aee875fc6651d/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.9] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/beta-1.2.9.aar/76fb59818524f079402eaa26b9272dfa/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.9] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/beta-1.2.9.aar/76fb59818524f079402eaa26b9272dfa/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.2] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/answers-1.4.2.aar/6f458f5b918af8110957cdb9f58f3e0c/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.2] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/answers-1.4.2.aar/6f458f5b918af8110957cdb9f58f3e0c/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.3] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/fabric-1.4.3.aar/c1226e023ff5f378caf7aab98212e3b8/AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.3] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/fabric-1.4.3.aar/c1226e023ff5f378caf7aab98212e3b8/AndroidManifest.xml:27:5-43
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/64463624b3117319f295e48d503d4676/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/64463624b3117319f295e48d503d4676/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ceff6b6565f2a71b72d9f8df22f135ab/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ceff6b6565f2a71b72d9f8df22f135ab/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4a4eb6a0eba619603ea28dd7012791b6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4a4eb6a0eba619603ea28dd7012791b6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a9f1d763f982802555265bbc08a45c0b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a9f1d763f982802555265bbc08a45c0b/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ahmedsaad/Developer/quran_android-master/app/src/debug/AndroidManifest.xml:15:3-49
+INJECTED from /Users/ahmedsaad/Developer/quran_android-master/app/src/debug/AndroidManifest.xml:15:3-49
+	tools:overrideLibrary
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:15:13-47
+	android:targetSdkVersion
+		INJECTED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ahmedsaad/Developer/quran_android-master/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ahmedsaad/Developer/quran_android-master/app/src/debug/AndroidManifest.xml
+application
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:17:3-162:17
+MERGED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:17:3-162:17
+MERGED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:17:3-162:17
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.0] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/stetho-okhttp3-1.5.0.aar/79ffc83957e2ca08a09b239d426841ae/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.0] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/stetho-okhttp3-1.5.0.aar/79ffc83957e2ca08a09b239d426841ae/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/stetho-1.5.0.aar/afdaa0c114238aec605ebe8d850e0619/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/stetho-1.5.0.aar/afdaa0c114238aec605ebe8d850e0619/AndroidManifest.xml:11:5-20
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/4cfe9b6154fdb96a4276aef47f1dfdd0/AndroidManifest.xml:26:5-55:19
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/4cfe9b6154fdb96a4276aef47f1dfdd0/AndroidManifest.xml:26:5-55:19
+MERGED from [com.jakewharton.timber:timber:4.6.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/timber-4.6.1.aar/54ca32f30b4141f962b8773d8a2865b5/AndroidManifest.xml:8:5-20
+MERGED from [com.jakewharton.timber:timber:4.6.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/timber-4.6.1.aar/54ca32f30b4141f962b8773d8a2865b5/AndroidManifest.xml:8:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.4] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.4.aar/04473edced835b5e336fb816e49900f4/AndroidManifest.xml:11:5-17:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.4] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.4.aar/04473edced835b5e336fb816e49900f4/AndroidManifest.xml:11:5-17:19
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.3] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.3.aar/70ca898bba32be2fdd2aee875fc6651d/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.3] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.3.aar/70ca898bba32be2fdd2aee875fc6651d/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.9] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/beta-1.2.9.aar/76fb59818524f079402eaa26b9272dfa/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.9] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/beta-1.2.9.aar/76fb59818524f079402eaa26b9272dfa/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.2] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/answers-1.4.2.aar/6f458f5b918af8110957cdb9f58f3e0c/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.2] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/answers-1.4.2.aar/6f458f5b918af8110957cdb9f58f3e0c/AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.3] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/fabric-1.4.3.aar/c1226e023ff5f378caf7aab98212e3b8/AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.3] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/fabric-1.4.3.aar/c1226e023ff5f378caf7aab98212e3b8/AndroidManifest.xml:31:5-20
+	android:supportsRtl
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:24:7-33
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:24:7-33
+	android:label
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:20:7-39
+		REJECTED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:20:7-39
+	android:fullBackupContent
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:23:7-46
+	android:roundIcon
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:19:7-41
+		REJECTED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:19:7-41
+	android:icon
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:18:7-36
+		REJECTED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:18:7-36
+	android:allowBackup
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:22:7-33
+	android:theme
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:25:7-35
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:25:7-35
+	tools:replace
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/debug/AndroidManifest.xml:12:7-80
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:21:7-39
+		REJECTED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:21:7-39
+activity#com.quran.labs.androidquran.QuranDataActivity
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:26:5-37:16
+MERGED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:26:5-37:16
+MERGED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:26:5-37:16
+	android:label
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:28:9-41
+		REJECTED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:28:9-41
+	android:configChanges
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:29:9-70
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:29:9-70
+	android:theme
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:30:9-59
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:30:9-59
+	tools:replace
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/debug/AndroidManifest.xml:19:9-38
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:27:9-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:31:7-34:23
+action#android.intent.action.MAIN
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:32:9-60
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:32:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:33:9-68
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:33:19-66
+meta-data#android.app.shortcuts
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:35:7-36:54
+	android:resource
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:36:18-51
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:35:18-54
+activity#com.quran.labs.androidquran.ShortcutsActivity
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:39:5-40:41
+	android:exported
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:40:15-38
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:39:15-48
+activity#com.quran.labs.androidquran.ui.QuranActivity
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:41:5-43:46
+	android:theme
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:43:9-44
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:42:9-41
+activity#com.quran.labs.androidquran.AboutUsActivity
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:44:5-46:46
+	android:theme
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:46:9-44
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:45:9-40
+activity#com.quran.labs.androidquran.HelpActivity
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:47:5-45
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:47:15-43
+activity#com.quran.labs.androidquran.ui.PagerActivity
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:48:5-51:54
+	android:launchMode
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:50:9-39
+	android:theme
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:51:9-52
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:49:9-41
+activity#com.quran.labs.androidquran.ui.TranslationManagerActivity
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:52:5-54:72
+	android:configChanges
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:54:9-70
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:53:9-54
+activity#com.quran.labs.androidquran.QuranPreferenceActivity
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:55:5-58:72
+	android:configChanges
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:58:9-70
+	android:theme
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:57:9-44
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:56:9-48
+activity#com.quran.labs.androidquran.QuranAdvancedPreferenceActivity
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:59:5-62:72
+	android:configChanges
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:62:9-70
+	android:theme
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:61:9-44
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:60:9-56
+activity#com.quran.labs.androidquran.SearchActivity
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:64:5-73:16
+	android:launchMode
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:66:9-39
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:65:9-39
+intent-filter#action:name:android.intent.action.SEARCH
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:67:7-69:23
+action#android.intent.action.SEARCH
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:68:9-62
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:68:17-60
+meta-data#android.app.searchable
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:70:7-72:47
+	android:resource
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:72:11-45
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:71:11-48
+activity#com.quran.labs.androidquran.QuranForwarderActivity
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:74:5-80:16
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:74:15-53
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:scheme:quran
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:75:7-79:23
+action#android.intent.action.VIEW
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:76:9-60
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:76:17-58
+category#android.intent.category.DEFAULT
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:77:9-67
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:77:19-65
+data
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:78:9-39
+	android:scheme
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:78:15-37
+activity#com.quran.labs.androidquran.ui.AudioManagerActivity
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:81:5-83:39
+	android:theme
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:83:9-37
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:82:9-48
+meta-data#android.app.default_searchable
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:86:5-88:42
+	android:value
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:88:9-40
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:87:9-54
+provider#com.quran.labs.androidquran.data.QuranDataProvider
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:90:5-93:50
+	android:authorities
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:93:9-48
+	android:exported
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:92:9-33
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:91:9-47
+provider#android.support.v4.content.FileProvider
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:95:5-103:16
+	android:grantUriPermissions
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:98:9-43
+	android:authorities
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:97:9-53
+	android:exported
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:99:9-33
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:96:9-63
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:100:7-102:47
+	android:resource
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:102:11-45
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:101:11-61
+receiver#android.support.v4.media.session.MediaButtonReceiver
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:105:5-109:16
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:105:15-82
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:106:7-108:23
+action#android.intent.action.MEDIA_BUTTON
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:107:9-68
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:107:17-66
+activity#com.quran.labs.androidquran.QuranImportActivity
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:111:5-144:16
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:111:15-50
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:application/json
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:112:7-116:23
+action#android.intent.action.SEND
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:113:9-60
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:113:17-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:*+data:host:*+data:host:*+data:host:*+data:mimeType:*/*+data:mimeType:*/*+data:mimeType:*/*+data:mimeType:*/*+data:pathPattern:.*\\..*\\..*\\..*\\.backup+data:pathPattern:.*\\..*\\..*\\.backup+data:pathPattern:.*\\..*\\.backup+data:pathPattern:.*\\.backup+data:scheme:file+data:scheme:file+data:scheme:file+data:scheme:file
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:117:7-143:23
+category#android.intent.category.BROWSABLE
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:121:9-69
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:121:19-67
+activity#com.quran.labs.androidquran.pageselect.PageSelectActivity
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:145:5-146:61
+	android:theme
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:146:9-59
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:145:15-60
+service#com.quran.labs.androidquran.service.QuranDownloadService
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:148:5-150:55
+	android:enabled
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:149:9-31
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:150:9-53
+service#com.quran.labs.androidquran.service.AudioService
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:151:5-157:15
+	android:exported
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:152:9-33
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:153:9-45
+meta-data#io.fabric.ApiKey
+ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:159:5-161:67
+	android:value
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:161:9-65
+	android:name
+		ADDED from /Users/ahmedsaad/Developer/quran_android-master/app/src/main/AndroidManifest.xml:160:9-40
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/4cfe9b6154fdb96a4276aef47f1dfdd0/AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/4cfe9b6154fdb96a4276aef47f1dfdd0/AndroidManifest.xml:23:22-77
+service#com.squareup.leakcanary.internal.HeapAnalyzerService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/4cfe9b6154fdb96a4276aef47f1dfdd0/AndroidManifest.xml:27:9-30:45
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/4cfe9b6154fdb96a4276aef47f1dfdd0/AndroidManifest.xml:30:13-42
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/4cfe9b6154fdb96a4276aef47f1dfdd0/AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/4cfe9b6154fdb96a4276aef47f1dfdd0/AndroidManifest.xml:28:13-80
+service#com.squareup.leakcanary.DisplayLeakService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/4cfe9b6154fdb96a4276aef47f1dfdd0/AndroidManifest.xml:31:9-33:39
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/4cfe9b6154fdb96a4276aef47f1dfdd0/AndroidManifest.xml:33:13-36
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/4cfe9b6154fdb96a4276aef47f1dfdd0/AndroidManifest.xml:32:13-70
+activity#com.squareup.leakcanary.internal.DisplayLeakActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/4cfe9b6154fdb96a4276aef47f1dfdd0/AndroidManifest.xml:35:9-47:20
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/4cfe9b6154fdb96a4276aef47f1dfdd0/AndroidManifest.xml:37:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/4cfe9b6154fdb96a4276aef47f1dfdd0/AndroidManifest.xml:39:13-71
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/4cfe9b6154fdb96a4276aef47f1dfdd0/AndroidManifest.xml:38:13-54
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/4cfe9b6154fdb96a4276aef47f1dfdd0/AndroidManifest.xml:41:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/4cfe9b6154fdb96a4276aef47f1dfdd0/AndroidManifest.xml:40:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/4cfe9b6154fdb96a4276aef47f1dfdd0/AndroidManifest.xml:36:13-80
+activity#com.squareup.leakcanary.internal.RequestStoragePermissionActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/4cfe9b6154fdb96a4276aef47f1dfdd0/AndroidManifest.xml:48:9-54:68
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/4cfe9b6154fdb96a4276aef47f1dfdd0/AndroidManifest.xml:50:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/4cfe9b6154fdb96a4276aef47f1dfdd0/AndroidManifest.xml:52:13-82
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/4cfe9b6154fdb96a4276aef47f1dfdd0/AndroidManifest.xml:51:13-54
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/4cfe9b6154fdb96a4276aef47f1dfdd0/AndroidManifest.xml:54:13-65
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/4cfe9b6154fdb96a4276aef47f1dfdd0/AndroidManifest.xml:53:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/4cfe9b6154fdb96a4276aef47f1dfdd0/AndroidManifest.xml:49:13-93
+provider#com.crashlytics.android.CrashlyticsInitProvider
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.4] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.4.aar/04473edced835b5e336fb816e49900f4/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.4] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.4.aar/04473edced835b5e336fb816e49900f4/AndroidManifest.xml:14:13-75
+	android:exported
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.4] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.4.aar/04473edced835b5e336fb816e49900f4/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.4] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.4.aar/04473edced835b5e336fb816e49900f4/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.4] /Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.4.aar/04473edced835b5e336fb816e49900f4/AndroidManifest.xml:13:13-75

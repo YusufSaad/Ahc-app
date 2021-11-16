@@ -1,0 +1,8 @@
+include ':app', ':core-android', ':ahc-stores'
+include ':common:data'
+include ':common:pages'
+include ':pages:madani'
+include ':quran'
+
+project(':core-android').projectDir = new File(settingsDir, '/Submodules/core-android')
+project(':ahc-stores').projectDir = new File(settingsDir, '/Submodules/ahc-stores')

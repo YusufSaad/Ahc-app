@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/ahmedsaad/Developer/quran_android-master/app/build/intermediates/incremental/mergeMadaniDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/397884b58ad2ef1c538f081d6c0ba703/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "117,186,255,325,399,475,534,605",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "181,250,320,394,470,529,600,668"
+                    }
+                },
+                {
+                    "source": "/Users/ahmedsaad/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/940c26de1c0e071d5fbf5f188c9e3944/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,185,256,328,386,444,550,614,677",
+                        "endLines": "2,3,4,5,6,7,8,9,10,14",
+                        "endColumns": "59,69,70,71,57,57,105,63,62,12",
+                        "endOffsets": "110,180,251,323,381,439,545,609,672,854"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "673,733,803,874,946,1004,1062,1168,1232,1295",
+                        "endLines": "11,12,13,14,15,16,17,18,19,23",
+                        "endColumns": "59,69,70,71,57,57,105,63,62,12",
+                        "endOffsets": "728,798,869,941,999,1057,1163,1227,1290,1472"
+                    }
+                },
+                {
+                    "source": "/Users/ahmedsaad/Developer/quran_android-master/app/src/main/res/values-sw600dp/booleans.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "3",
+                        "startOffsets": "55",
+                        "endColumns": "60",
+                        "endOffsets": "112"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "61",
+                        "endOffsets": "112"
+                    }
+                }
+            ]
+        }
+    ]
+}

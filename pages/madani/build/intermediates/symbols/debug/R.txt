@@ -1,0 +1,2 @@
+int string madani_description 0x7f150001
+int string madani_title 0x7f150002

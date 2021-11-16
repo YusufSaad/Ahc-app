@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Tue Jul 24 11:09:19 EDT 2018
+1.base=/Users/ahmedsaad/Developer/quran_android-master/app/build/intermediates/merged_assets/madaniBeta/mergeMadaniBetaAssets/out
+2.path=classes.dex
+0.baseType=DIRECTORY
+2.base=/Users/ahmedsaad/Developer/quran_android-master/app/build/intermediates/transforms/dexMerger/madani/beta/0
+2.set=DEX
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=crashlytics-build.properties
+0.set=ASSET
+0.base=/Users/ahmedsaad/Developer/quran_android-master/app/build/intermediates/merged_assets/madaniBeta/mergeMadaniBetaAssets/out
+2.baseType=DIRECTORY
+1.path=uthmanic_hafs_ver09.otf

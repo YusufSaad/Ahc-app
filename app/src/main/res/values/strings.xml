@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">AHC</string>
+    <string name="main_title">Abu Huraira Center</string>
+    <string name="package_name">org.abuhuraira.app</string>
+    <string name="navigation_home">Home</string>
+    <string name="navigation_watch">Watch</string>
+    <string name="navigation_charity">Donate</string>
+    <string name="list_charities_title">Donate</string>
+    <string name="list_videos_title">Watch</string>
+
+    <string name="hide_snackbar">Hide</string>
+    <string name="loading">Loading…</string>
+
+    <string name="no.internet.error.message">No internet connection is available.</string>
+    <string name="bad.network.request.error.message">The server did not recognize your request.</string>
+    <string name="unknown.reason.error.message">There was an error with your request.</string>
+    <string name="field.prefix">Field \"%1$s\"</string>
+    <string name="no.data.message">No data results</string>
+
+    <string name="unauthorized.error.title">Unauthorized Access</string>
+    <string name="unauthorized.error.message">You must log in to view this content. Please log in or sign up.</string>
+    <string name="no.longer.authorized.error.message">Your session has expired or is no longer valid. Please log in again.</string>
+
+    <string name="non.existent.error.message">No data was found for your request.</string>
+    <string name="parse.failure.error.message">The response from the server could not be read.</string>
+    <string name="database.failure.error.message">An unexpected database error has occurred.</string>
+    <string name="cache.failure.error.message">An unexpected error has occurred with the local database, but may have succeeded in the cloud.</string>
+    <string name="duplicate.failure.error.message">The data you submitted already exists.</string>
+    <string name="network.failure.error.message">An unexpected network error has occurred.</string>
+
+    <string name="continue_string">Continue</string>
+    <string name="cancel">Cancel</string>
+    <string name="generic.error.title">Error</string>
+    <string name="generic.error.message">An error has occurred</string>
+
+    <string name="play_rating_title">Rate this app</string>
+    <string name="play_rating_message">Please take a minute to rate this app.</string>
+    <string name="play_rating_no_thanks">No, thanks</string>
+    <string name="play_rating_remind_me_later">Remind me later</string>
+    <string name="play_rating_rate_now">Rate now</string>
+
+    <string name="prayer_times_title">Prayer Times</string>
+    <string name="view_all_text">View All</string>
+    <string name="athan_title">ATHAN</string>
+    <string name="iqama_title">IQAMA</string>
+
+    <string name="error_player">There was an error with your youtube player.</string>
+
+    <string name="search">Search</string>
+    <string name="events_title">Events</string>
+    <string name="details">details</string>
+</resources>
